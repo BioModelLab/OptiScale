@@ -76,3 +76,11 @@ The full computational environment is provided in:
 
 - environment.yml (recommended)
 - requirements.txt
+
+---
+
+## Data availability
+
+The datasets used in this study are available at Zenodo:
+
+https://doi.org/10.5281/zenodo.19563492
